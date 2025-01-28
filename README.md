@@ -21,9 +21,3 @@ A simple yet powerful task manager app built with Django. Manage your tasks effi
 - Tailwindcss
 - SQLite 3
 
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/sabrysm/task-management-app.git
